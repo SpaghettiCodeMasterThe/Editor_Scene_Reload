@@ -1,2 +1,2 @@
-# Scene_Reload
-Tool for godot to help you reload your scene.
+# Editor_Scene_Reload
+Add a button on the top-right to help you reload your current scene.
